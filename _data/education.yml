@@ -1,0 +1,29 @@
+# TODO: edit
+
+- layout: left
+  name: École de Technologie Supérieure
+  dates: 2018 - 2020
+  description: | 
+    - Diplôme d'Études Supérieures Spécialisées (Post Graduate Degree - Software Engineering)
+
+- layout: left
+  name: Coursera - MOOC
+  dates: 2015 - 2017
+  description: |
+    - Parallel Programming
+    - Functional Programming Principles in <mark>Scala<mark>
+    - Principles of Reactive Programming
+  
+- layout: left
+  name: Java Certifications - Sun
+  dates: 2003 - 2004
+  description: |
+    - Sun Certified Business Component Developer (EJB)
+    - Sun Certified Web Component Developer (Servlet/JSP)
+    - Sun Certified Java Programmer
+
+- layout: left
+  name: Lycée Pablo Neruda, Grenoble, France.
+  dates: 1990 - 1992
+  description: | 
+    - Baccalauréat Sciences

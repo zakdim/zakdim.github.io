@@ -1,0 +1,53 @@
+# TODO: edit
+
+- layout: left
+  company: FedEx Trade Networks (Montreal)
+  job_title: Software Architect
+  dates: July 2007 - Present
+  quote: >
+   Environment: Java, Java EE, Angular, Weblogic, Apache Camel, Spring, Apache Lucene, 
+   Kafka, GoCD, Docker, JBoss Wildfly, Mule ESB, JMS, Kubernetes
+  description: |
+    * Design and realize applications in an international freight and customs brokerage business context;
+    * Responsible for technology watch, specially in the area of open source software and its potential application to respond to business needs;
+    * Coach the developers team on technical and business issues;
+    * Increase the IT department visibility to others FedEx operating companies through innovative solution (’HS Code Finder’);
+    * Integrates systems with business partners (government, transporters, importers 
+    * Define development standards and ensure their respect through design and code reviews either automatically (’build’) or in person (’Walkthrough’);
+    * Configure development environments by coding infrastructure (Docker, GoCD, Weblogic, Nexus, Maven);
+
+- layout: left
+  company: C.G.I. (Montreal)
+  job_title: Senior Consultant
+  dates: October 2005 - July 2007
+  quote: >
+   Environment: Java, Java EE, Struts, SAP Webdynpro, Multithreading, Weblogic
+  description: |
+    * Carry out multiple mandates for major clients in various business fields within the CGI Montreal team, Digital Business Solution (SAE);
+    * Participate in the Development of a web application to manage the distribution of Publi-Sacs (Transcontinental Media);
+    * Design and implement a development framework to migrate different SAP data modules (DW, HR, and Replenishment - Métro Richelieu);
+    * Document the framework architecture and development principles;
+    * Assess the re-engineering vs rewriting of a Java application to manage appointments (Hôpital Sacre cœur). Level-up on the framework SAP Webdynpro for Java;
+    * Assess the IBM Datapower 1 aiming at optimizing performances and centralizing different web services configurations (Banque Nationale);
+    * Design and develop a module to submit mortgage loan to a notary office (Banque Laurentienne);  
+
+- layout: left
+  company: FedEx Trade Networks (Montreal)
+  job_title: Senior System Analyst
+  dates: August 1999 - October 2005
+  quote: >
+   Environment: Java, Java EE, Struts, JQuery, JSF, EDI X12 EDIFACT, IBM AS400
+  description: |
+    * Consolidate different electronic information exchange processes (EDI X12 EDIFACT);
+    * Develop and build multi-tier applications related to the customs brokerage environment;
+    * Introduced Java and Java EE in order to reengineer applications written with the language Delphi ;
+
+- layout: left
+  company: E.A.S.I.I.
+  job_title: Programmer Analyst
+  dates: December 1992 - July 1999
+  quote: >
+   Environment: Delphi, IBM AS400, DB2/400, RPG/ILE
+  description: |
+    * Analyse and code different applications for a real estate finance establishment on IBM AS400 and Windows;
+    * Participate in the creation of a commercial software ’Activi’It 400’ allowing to build client-server type applications between Windows and the DB2/400 2 database;

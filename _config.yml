@@ -1,1 +1,82 @@
+# Site
+repository: zakdim/zakdim.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Dmitri Zakharov
+title: Senior Java Developper
+email: dmitri.zakharov@gmail.com 
+website: zakdim.github.io
+
+darkmode: true
+# Social links
+
+# TODO twitter_username: franck_garcia
+github_username:  zakdim
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+# TODO linkedin_username: franck-garcia-2a602b10
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+# stack overflow?
+additional_links:
+        - url: https://stackoverflow.com/users/2800303/dzakharov
+          icon: fa-stack-overflow
+          title: stackoverflow
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  TODO: I am a software developer/architect with an extensive experience of the Java ecosystem. 
+  Improving and learning new skills by following the latest technological trends is one of my constant concern. 
+  Over the years, the various mandates I worked on have enabled me to reveal my skills in the realization of innovative quality solutions.
+  
+
+  I am most skilled in:     <mark>Java</mark> <mark>Jave EE</mark> <mark>Angular</mark> <mark>Apache Camel</mark> <mark>Spring</mark> <mark>Hibernate</mark> <mark>Docker</mark>
+
+  Currently looking at:     <mark>Kubernetes</mark> <mark>Service Mesh</mark> <mark>Quarkus</mark>
+
+  Also know legacy stuff:   <mark>AS/400</mark> <mark>RPG/ILE</mark> <mark> EDI/Integration </mark>
+
+# Projects Section
+# projects_title: objects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+education_title: Educations and Specializations
+
+# More Section
+more_title: Skills
+more_content: | # this will include new lines to allow paragraphs
+  <pre>Language/Markup:     </pre> <mark>Java</mark> <mark>Typescript</mark> <mark>Javascript</mark> <mark>Scala</mark> <mark>RPG/ILE</mark> <mark>Go Lang</mark> <mark>Ruby</mark> <mark>Bash</mark> <mark>HTML</mark> <mark>S-CSS</mark> <mark>EDI X12</mark>
+
+  <pre>Applications Servers:</pre> <mark>JBoss/Wildfly</mark> <mark>Weblogic</mark> <mark>Mule ESB</mark> <mark>ElasticSearch</mark>
+
+  <pre>Data/Messaging:      </pre> <mark>DB2/400</mark> <mark>Oracle</mark> <mark>Kafka</mark> <mark>MQ Series</mark> <mark>MongoDB</mark>
+
+  <pre>System/Tools:        </pre> <mark>Linux</mark> <mark>IBM AS/400</mark> <mark>Docker</mark> <mark>Kubernetes</mark> <mark>GoCD</mark> <mark>Nexus</mark> <mark>SonarQube</mark> <mark>Git</mark> 
+
+  <pre>API/Libraries:       </pre> <mark>Java EE</mark> <mark>JAX/RS</mark> <mark>Spring</mark> <mark>JPA/Hibernate</mark> <mark>Angular</mark> <mark>Arquillian</mark> <mark>Bean Validation</mark> 
+      <mark>Vavr</mark> <mark>Bootstrap</mark> <mark>BIRT</mark> <mark>Drools</mark> <mark>Apache Camel</mark> <mark>CDI</mark> <mark>Guava</mark> <mark>JMS</mark> <mark>JQuery</mark> 
+      <mark>Mutlithreading</mark> <mark>Struts</mark>
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
 theme: jekyll-theme-minimal
