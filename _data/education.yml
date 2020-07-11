@@ -1,29 +1,30 @@
 # TODO: edit
 
 - layout: left
-  name: École de Technologie Supérieure
-  dates: 2018 - 2020
-  description: | 
-    - Diplôme d'Études Supérieures Spécialisées (Post Graduate Degree - Software Engineering)
+  name: Coursera/Udemy - MOOC
+  dates: 2017 - 2020
+  description: |
+    - Docker and Kubernetes: The Complete Guide - Udemy
+    - Google Cloud Platform Fundamentals: Core Infrastructure - Coursera
+    - Angular - The Complete Guide (2020 Edition) - Udemy
+    - Kotlin for Java Developers - Udemy
+    - Functional Programming Principles in Scala - Corsera
 
 - layout: left
-  name: Coursera - MOOC
-  dates: 2015 - 2017
+  name: Java Certifications - Oracle
+  dates: 2018 - 2019
   description: |
-    - Parallel Programming
-    - Functional Programming Principles in <mark>Scala<mark>
-    - Principles of Reactive Programming
-  
-- layout: left
-  name: Java Certifications - Sun
-  dates: 2003 - 2004
-  description: |
-    - Sun Certified Business Component Developer (EJB)
-    - Sun Certified Web Component Developer (Servlet/JSP)
-    - Sun Certified Java Programmer
+    - Oracle Certified Professional, Java SE 8 Programmer
+    - Oracle Certified Associate, Java SE 8 Programmer
 
 - layout: left
-  name: Lycée Pablo Neruda, Grenoble, France.
-  dates: 1990 - 1992
+  name: Concordia University, Montreal
+  dates: 2003 - 2006
   description: | 
-    - Baccalauréat Sciences
+    - Graduate Diploma in Computer Science
+
+- layout: left
+  name: Herzing College, Montreal
+  dates: 1999 - 2000
+  description: | 
+    - A.E.C - Programmer-Analyst LEA.OJ - Computer Science - With Honors - Average 98%
